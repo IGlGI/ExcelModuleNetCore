@@ -1,0 +1,9 @@
+#Nuget Projects
+
+Nuget/MS.Excel.Documents.Module/.vs/
+Nuget/MS.Excel.Documents.Module/ExcelDocumentsModule/bin/
+Nuget/MS.Excel.Documents.Module/ExcelDocumentsModule/obj/
+Nuget/MS.Excel.Documents.Module/ExcelDocumentsModuleTests/bin/
+Nuget/MS.Excel.Documents.Module/ExcelDocumentsModuleTests/obj/
+Nuget/MS.Excel.Documents.Module/IExcelDocumentsModule/bin/
+Nuget/MS.Excel.Documents.Module/IExcelDocumentsModule/obj/
