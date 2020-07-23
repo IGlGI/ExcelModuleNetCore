@@ -59,6 +59,6 @@ It's recommended to use NuGet through the VS Package Manager Console Install-Pac
 
 <h3>How to use ExcelDocumentsModule with MS Orleans:</h3>
 
-Just replace <b>new ExcelModule(); or container.Resolve\<IExcelModule\>();</b> to <b>client.GetGrain<IExcelModuleOrleans>(Guid.NewGuid());</b> where client is <b>IClusterClient</b>.
+Just replace <b>new ExcelModule(); or container.Resolve\<IExcelModule\>();</b> to <b>client.GetGrain\<IExcelModuleOrleans\>(Guid.NewGuid());</b> where the client is <b>IClusterClient</b>.
 
 For more information look at the tests projects.
